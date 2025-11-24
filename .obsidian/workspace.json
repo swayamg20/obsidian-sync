@@ -88,18 +88,6 @@
                     }
                   },
                   {
-                    "id": "a449dae069d0c792",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.10.3"
-                      },
-                      "icon": "lucide-book-up",
-                      "title": "Release Notes 1.10.3"
-                    }
-                  },
-                  {
                     "id": "3664218e897da0b1",
                     "type": "leaf",
                     "state": {
@@ -587,7 +575,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "a449dae069d0c792",
+  "active": "3664218e897da0b1",
   "lastOpenFiles": [
     "Hackweek.md",
     "things to discuss.md",
