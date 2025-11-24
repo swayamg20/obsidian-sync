@@ -1,0 +1,642 @@
+{
+  "main": {
+    "id": "23e8ecca5aab6c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eacb671a1b30e21",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b3385003fb3059b",
+            "type": "split",
+            "dimension": 64.97354497354497,
+            "children": [
+              {
+                "id": "6c5b6fdf1ccd80da",
+                "type": "tabs",
+                "dimension": 74.07718120805369,
+                "children": [
+                  {
+                    "id": "c50e6fdaaaa1e283",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Tracking Session Report.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Tracking Session Report"
+                    }
+                  },
+                  {
+                    "id": "d3120621dae402b6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "TODO.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "TODO"
+                    }
+                  },
+                  {
+                    "id": "c2156a43dd883006",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "IVR FLOW.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "IVR FLOW"
+                    }
+                  },
+                  {
+                    "id": "2ab438f63ee5bdb9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "things to discuss.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "things to discuss"
+                    }
+                  },
+                  {
+                    "id": "77fef75a5ae4e205",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "TO DO.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "TO DO"
+                    }
+                  },
+                  {
+                    "id": "a449dae069d0c792",
+                    "type": "leaf",
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.10.3"
+                      },
+                      "icon": "lucide-book-up",
+                      "title": "Release Notes 1.10.3"
+                    }
+                  },
+                  {
+                    "id": "3664218e897da0b1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "agenticAPI.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "agenticAPI"
+                    }
+                  },
+                  {
+                    "id": "7115c1e016bb1989",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Weekends.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Weekends"
+                    }
+                  },
+                  {
+                    "id": "168878d91b5eb21c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Personal/Start.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Start"
+                    }
+                  },
+                  {
+                    "id": "4a8638db09f36f10",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Tara.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Tara"
+                    }
+                  },
+                  {
+                    "id": "e49b47a06652b5ba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Notes on Computer Networks.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Notes on Computer Networks"
+                    }
+                  },
+                  {
+                    "id": "1be7902d7912b2b7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Access.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Access"
+                    }
+                  },
+                  {
+                    "id": "362ba8baf38afea6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "AI SDK prod issues p0.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "AI SDK prod issues p0"
+                    }
+                  },
+                  {
+                    "id": "eaaf919510ff3e9c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "text.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "text"
+                    }
+                  },
+                  {
+                    "id": "661afb967ff10520",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Voice Bot.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Voice Bot"
+                    }
+                  },
+                  {
+                    "id": "3cb9ecfa82bc5abf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "bases",
+                      "state": {
+                        "file": "Personal/Test.base",
+                        "viewName": "Table"
+                      },
+                      "icon": "lucide-layout-grid",
+                      "title": "Test"
+                    }
+                  },
+                  {
+                    "id": "e56802cc42b37ad4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "MCP Framework.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "MCP Framework"
+                    }
+                  },
+                  {
+                    "id": "4923f58dc4a341c9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Plan.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Plan"
+                    }
+                  },
+                  {
+                    "id": "e64c7fb85211469f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Tara.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Tara"
+                    }
+                  },
+                  {
+                    "id": "8aa01690374e7073",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Personal/Start.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Start"
+                    }
+                  },
+                  {
+                    "id": "e0845b7a29c3fe15",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "link.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "link"
+                    }
+                  }
+                ],
+                "currentTab": 5
+              },
+              {
+                "id": "0a9a97092e7af72d",
+                "type": "tabs",
+                "dimension": 25.922818791946305,
+                "children": [
+                  {
+                    "id": "1dc3f1eb90939cae",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "what are we trying to achieve.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "what are we trying to achieve"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "0ad680ad318448b5",
+            "type": "tabs",
+            "dimension": 35.026455026455025,
+            "children": [
+              {
+                "id": "df03cddfd4ad63e8",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Test.canvas",
+                    "viewState": {
+                      "x": 311.26245550928576,
+                      "y": 216.07955784486055,
+                      "zoom": -0.7869622583438944
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Test"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0efb7de980dd818",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a58bf28e9d77cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b74829388da9aefb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e862474e1e1342f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hackw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a259720b63ff2cb4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "c1859e909956c4a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f95984eb026c446b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "ce87ece0b5574fd9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "67fbecd5bd03b5df",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e9870815bbab007",
+        "type": "tabs",
+        "dimension": 39.4291754756871,
+        "children": [
+          {
+            "id": "eb2dd023eeda1d9d",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Index Table.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Index Table"
+            }
+          }
+        ]
+      },
+      {
+        "id": "62cf758eadd95c8f",
+        "type": "tabs",
+        "dimension": 39.4291754756871,
+        "children": [
+          {
+            "id": "5b41a47e7bf6c5ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6ae2e38d97fb09b0",
+        "type": "tabs",
+        "dimension": 21.141649048625794,
+        "children": [
+          {
+            "id": "a9ca6babb9cd3440",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI SDK prod issues p0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AI SDK prod issues p0"
+            }
+          },
+          {
+            "id": "e223c2f11abf1455",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tara.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tara"
+            }
+          },
+          {
+            "id": "bca9e0b35ffe4b0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e74738663da9e693",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tara.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tara"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "a449dae069d0c792",
+  "lastOpenFiles": [
+    "Hackweek.md",
+    "things to discuss.md",
+    "TO DO.md",
+    "IVR FLOW.md",
+    "TODO.md",
+    "agenticAPI.md",
+    "Weekends.md",
+    "Personal/Start.md",
+    "Test.canvas",
+    "what are we trying to achieve.md",
+    "Tracking Session Report.md",
+    "New__.md",
+    "Tara.md",
+    "Untitled.base",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Personal/Test.base",
+    "Plan.md",
+    "Untitled 2.md",
+    "chatBotPrompt.md",
+    "Bolna.md",
+    "MCP Framework.md",
+    "Access.md",
+    "Reel2Trip.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 1.base",
+    "Index Table.base",
+    "article2.md",
+    "review.md",
+    "Somethings.md",
+    "Untitled",
+    "Personal",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Screenshot 2024-10-24 at 6.21.49 PM.png",
+    "Screenshot 2024-09-26 at 2.05.37 PM.png",
+    "Screenshot 2024-12-06 at 5.27.36 PM.png",
+    "Screenshot 2024-09-25 at 12.09.21 PM.png",
+    "image.png",
+    "Screenshot 2025-04-19 at 11.30.07 PM.png",
+    "Screenshot 2025-03-24 at 12.40.04 PM.png",
+    "Screenshot 2025-01-15 at 6.10.34 PM.png",
+    "Screenshot 2025-01-13 at 3.09.44 AM.png",
+    "Screenshot 2025-01-13 at 1.29.43 AM.png",
+    "Excalidraw",
+    "Users/swayam.gupta/Downloads",
+    "Users/swayam.gupta",
+    "Users"
+  ]
+}

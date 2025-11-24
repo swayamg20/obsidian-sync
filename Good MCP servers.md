@@ -1,0 +1,11 @@
+https://github.com/rember/rember-mcp
+https://github.com/AI-QL/chat-mcp?tab=readme-ov-file#devtool-troubleshooting
+https://github.com/haris-musa/excel-mcp-server
+https://github.com/hungryrobot1/MCP-PIF?tab=readme-ov-file
+https://github.com/skydeckai/mcp-server-rememberizer
+https://github.com/varunneal/spotify-mcp
+https://github.com/GongRzhe/terminal-controller-mcp
+https://github.com/f/mcptools
+https://glama.ai/mcp/servers/@chriscarrollsmith/taskqueue-mcp
+https://github.com/tuananh/hyper-mcp
+https://github.com/tuananh/hyper-mcp
