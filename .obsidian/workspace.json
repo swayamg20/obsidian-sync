@@ -6,37 +6,10 @@
       {
         "id": "55b2fa9b7fb02d34",
         "type": "tabs",
+        "dimension": 76.54109589041096,
         "children": [
           {
             "id": "1d83a88520f549f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
-          },
-          {
-            "id": "9f4a9b19291bb3fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deployment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "deployment"
-            }
-          },
-          {
-            "id": "f4713a181811dd5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +21,35 @@
               "icon": "lucide-file",
               "title": "auto deployment bash"
             }
+          },
+          {
+            "id": "f4713a181811dd5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "f271c48e265dfbec",
+        "type": "tabs",
+        "dimension": 23.458904109589042,
+        "children": [
+          {
+            "id": "9f4a9b19291bb3fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#auto_deploy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,19 +203,21 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "f4713a181811dd5a",
+  "active": "1d83a88520f549f1",
   "lastOpenFiles": [
-    "deployment.md",
+    "test.md",
+    "Untitled.canvas",
     "auto deployment bash.md",
-    "test.md"
+    "deployment.md"
   ]
 }
