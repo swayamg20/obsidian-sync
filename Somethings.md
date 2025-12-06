@@ -1,0 +1,7 @@
+- [ ] Not gaining more interest on UI and animation side
+- [ ] Not getting any help/parallel support form anyone
+- [ ] Things are getting repeatetive
+- [ ] Not able to focus on my objectives like working on new AI technologies, writing articles, blogs (about what I can write or present? I haven't done anything in this quarter to showcase anyone)
+- [ ] individual and pod goal setting is not good I guess
+- [ ] I wasn't able to start on testing framework etc
+- [ ] 

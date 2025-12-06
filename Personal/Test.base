@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: DESC
+    cardSize: 110
+    imageAspectRatio: 1.35
