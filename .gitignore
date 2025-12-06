@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except portfolio folder
+!portfolio/
+!portfolio/**
+
+# Keep .gitignore itself
+!.gitignore
+
