@@ -1,0 +1,7 @@
+{
+  "remoteURL": "https://github.com/swayamg20/obsidian-sync.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
