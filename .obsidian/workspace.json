@@ -26,14 +26,17 @@
             "id": "511cd9f39d22a710",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tamasha.md",
-                "mode": "source",
-                "source": false
+                "file": "test.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -0.19802054107189188
+                }
               },
-              "icon": "lucide-file",
-              "title": "Tamasha"
+              "icon": "lucide-layout-dashboard",
+              "title": "test"
             }
           },
           {
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tamasha.md",
+                "file": "test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tamasha"
+              "title": "Backlinks for test"
             }
           },
           {
@@ -156,12 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tamasha.md",
+                "file": "test.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tamasha"
+              "title": "Outgoing links from test"
             }
           },
           {
@@ -199,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tamasha.md",
+                "file": "test.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tamasha"
+              "title": "Outline of test"
             }
           }
         ]
@@ -228,13 +231,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "511cd9f39d22a710",
+  "active": "05537e26d9dc6202",
   "lastOpenFiles": [
-    "auto deployment bash.md",
     "Tamasha.md",
+    "auto deployment bash.md",
     "tamasha",
     "test.md",
-    "Untitled.canvas",
+    "test.canvas",
     "deployment.md"
   ]
 }
