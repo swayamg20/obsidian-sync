@@ -6,7 +6,6 @@
       {
         "id": "55b2fa9b7fb02d34",
         "type": "tabs",
-        "dimension": 76.54109589041096,
         "children": [
           {
             "id": "1d83a88520f549f1",
@@ -51,34 +50,48 @@
             }
           },
           {
-            "id": "f4713a181811dd5a",
+            "id": "bdb465a6e4d82c91",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "conv ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conv ai"
+            }
+          },
+          {
+            "id": "14a72df1152bdd81",
+            "type": "leaf",
+            "state": {
+              "type": "cm-changelog-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "rocket",
+              "title": "Changelog of Canvas Mindmap"
+            }
+          },
+          {
+            "id": "659745fe6bc4c3f7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -215,
+                  "y": -190,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "f271c48e265dfbec",
-        "type": "tabs",
-        "dimension": 23.458904109589042,
-        "children": [
-          {
-            "id": "9f4a9b19291bb3fb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -90,6 +103,7 @@
       {
         "id": "780e32146acc657e",
         "type": "tabs",
+        "dimension": 69.95565410199556,
         "children": [
           {
             "id": "05537e26d9dc6202",
@@ -132,10 +146,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "a4a4a86c558a8741",
+        "type": "tabs",
+        "dimension": 30.044345898004433,
+        "children": [
+          {
+            "id": "9f4a9b19291bb3fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361.5
   },
   "right": {
     "id": "567a8f865b7e7408",
@@ -221,8 +252,19 @@
               "icon": "lucide-list",
               "title": "Outline of Tamasha"
             }
+          },
+          {
+            "id": "d604692ac3e23675",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -239,16 +281,31 @@
       "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05537e26d9dc6202",
+  "active": "659745fe6bc4c3f7",
   "lastOpenFiles": [
-    "Tech.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "conv ai.md",
     "Tamasha.md",
+    "auto deployment bash.md",
+    "Reel2Trip.md",
+    "MCP Framework.md",
+    "AI SDK UX FLOW.md",
+    "Tracking Session Report.md",
+    "link.md",
+    "UI image to code AI.md",
+    "IVR FLOW.md",
+    "Voice Bot.md",
+    "AI SDK hotels package.md",
+    "Tara.md",
+    "Plan.md",
+    "Tech.md",
     "test.md",
     "test.canvas",
-    "auto deployment bash.md",
     "tamasha",
     "deployment.md"
   ]

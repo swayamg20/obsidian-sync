@@ -1,4 +1,8 @@
 [
   "github-sync",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "editing-toolbar",
+  "table-editor-obsidian",
+  "obsidian-grandfather",
+  "canvas-mindmap"
 ]
