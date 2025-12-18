@@ -1,3 +1,4 @@
+[[common_model]]
 "Trip planning is not an information problem.  
 It is a _confidence formation_ problem."
 
