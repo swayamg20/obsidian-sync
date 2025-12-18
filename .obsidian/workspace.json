@@ -96,16 +96,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "abc.md",
+                "file": "Voice Bot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abc"
+              "title": "Voice Bot"
+            }
+          },
+          {
+            "id": "6dd014b6f5fde5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trip Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trip Planning"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -299,10 +313,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b67237d122745d1e",
+  "active": "6dd014b6f5fde5cc",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Untitled 1.md",
+    "Trip Planning.md",
+    "Voice Bot.md",
     "abc.md",
+    "Untitled.canvas",
     "Untitled.base",
     "conv ai.md",
     "Tamasha.md",
@@ -314,7 +331,6 @@
     "link.md",
     "UI image to code AI.md",
     "IVR FLOW.md",
-    "Voice Bot.md",
     "AI SDK hotels package.md",
     "Tara.md",
     "Plan.md",
