@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#auto_deploy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a4a4a86c558a8741",
@@ -327,7 +328,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30e719569879580a",
+  "active": "94a552465390ecc6",
   "lastOpenFiles": [
     "common_model.md",
     "Trip Planning.md",

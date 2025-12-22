@@ -9,12 +9,12 @@ Domain Execution
 
 The Decision Intelligence Core must be:
 - cheap
-- fast
+### - fast
 - stable
 - domain-agnostic
 - explainable
 
-### Common Model
+Common Model
 The common model is an **SLM (3B–7B)** that is **fine-tuned to do ONE thing extremely well**:
 > ***Convert messy human language into structured decision state.***
 
