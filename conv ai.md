@@ -11,7 +11,10 @@ Till Now:
 Feat:
 
 - [ ] Interuption Handling
-- [ ] tool call - ()
+- [x] tool call - () done on 27th dec
 - [ ] db, redis
 - [ ] web search live
 - [ ] integration with calender, events
+
+[[2025-12-27]]
+- [ ] tool calls working https://github.com/swayamg20/vad-based-conv-ai/pull/3
