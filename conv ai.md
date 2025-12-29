@@ -1,3 +1,4 @@
+[[cost]]
 GIthub: https://github.com/swayamg20/vad-based-conv-ai/
 Issues: https://github.com/swayamg20/vad-based-conv-ai/issues/4
 
