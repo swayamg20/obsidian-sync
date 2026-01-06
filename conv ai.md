@@ -1,4 +1,6 @@
-[[cost]]
+# [[cost]] [[thinking_about_product]]
+
+
 GIthub: https://github.com/swayamg20/vad-based-conv-ai/
 Issues: https://github.com/swayamg20/vad-based-conv-ai/issues/4
 
@@ -21,3 +23,5 @@ Feat:
 
 [[2025-12-27]]
 - [ ] tool calls working https://github.com/swayamg20/vad-based-conv-ai/pull/3
+
+thinking

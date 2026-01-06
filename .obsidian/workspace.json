@@ -152,16 +152,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sort.md",
+                "file": "conv ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sort"
+              "title": "conv ai"
+            }
+          },
+          {
+            "id": "5747b70722cac56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thinking_about_product.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thinking_about_product"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -355,8 +369,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34914eac7e99da55",
+  "active": "5747b70722cac56c",
   "lastOpenFiles": [
+    "thinking_about_product.md",
     "conv ai.md",
     "Sort.md",
     "cost.md",
