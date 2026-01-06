@@ -159,23 +159,9 @@
               "icon": "lucide-file",
               "title": "conv ai"
             }
-          },
-          {
-            "id": "5747b70722cac56c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thinking_about_product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "thinking_about_product"
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -369,10 +355,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5747b70722cac56c",
+  "active": "34914eac7e99da55",
   "lastOpenFiles": [
-    "thinking_about_product.md",
+    "Tara.md",
+    "Tech.md",
     "conv ai.md",
+    "thinking_about_product.md",
     "Sort.md",
     "cost.md",
     "@.md",
@@ -393,9 +381,7 @@
     "UI image to code AI.md",
     "IVR FLOW.md",
     "AI SDK hotels package.md",
-    "Tara.md",
     "Plan.md",
-    "Tech.md",
     "test.md",
     "test.canvas",
     "tamasha",
