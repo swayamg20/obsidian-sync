@@ -9,7 +9,7 @@ audio -> STT -> VAD -> decide -> if yes ->
 
 Till Now:
 
-- [x] chat
+- [ ] chat
 - [x] basic STT - VAD - LLM - TTS
 - [x] memory 25th dec
 
@@ -24,7 +24,7 @@ Feat:
 [[2025-12-27]]
 - [ ] tool calls working https://github.com/swayamg20/vad-based-conv-ai/pull/3
 
-# IDEA
+# 
 I am thinking about how people will or should use this idea of mine.
 I have few thinkings, like, the canvas mode. Canvas mode can be helpful for teaching a topic or smaller things to people (students, general audience)
 how people interact with the canvas or before that I wanna explain how I am imagining that people should interact with it is:
