@@ -46,3 +46,11 @@ More on convUX, not just the latency, but the fluency, way of speaking, interrup
 Combining all of these will produce a much more powerful conversational ai agent complete suite for the intelligence. Where people can not just create a voice agent with customised tool but can also use this product in daily life. Imagine, all of the powerful functionalities just on your lips.
 
 What I am envisioning is a future product which can be used by user or group of users together to discuss almost everything with confidence as like we do it with current chatbots but with their voice.
+
+
+Hi Esha, Swayam Gupta this side. I came across Giga recently since the big announcement and have spent some time understanding the product. I love the direction and product idea.
+I’m a 2024 graduate currently  Software Engineer 2 at ixigo currently working on our conversational ai agent, with a focus on core architecture and backend side. I’m early in my career and honestly excited about the development in AI and actively looking for opportunities and environments where I can grind alot and learn alot, and I feel Giga would be perfect for me and I will be able to contribute as much at here
+
+  
+
+Not reaching out for a generic role — just curious if there’s a way to contribute and learn meaningfully as Giga grows.
