@@ -1,0 +1,15 @@
+- [ ] flights detail page price mis match issue  
+- [ ] weather page data issue
+- [ ] elevenlabs new agents version  
+- [ ] agents versioning  
+- [ ] elevenlabs indian instance  
+- [ ] testing tools automatic way (scripting)
+- [x] big chips images
+- [x] big chips config
+- [ ] onboarding
+- [ ] only AQI  
+- [ ] AQI on design  
+- [ ] wind speed relation to human terminology
+- [ ] Error handling
+- [ ] tools testing platform
+- [ ] 
