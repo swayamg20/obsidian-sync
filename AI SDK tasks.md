@@ -1,15 +1,21 @@
 - [ ] flights detail page price mis match issue  
-- [ ] weather page data issue
+- [x] weather page data issue
 - [ ] elevenlabs new agents version  
 - [ ] agents versioning  
-- [ ] elevenlabs indian instance  
+- [x] elevenlabs indian instance  
 - [ ] testing tools automatic way (scripting)
 - [x] big chips images
 - [x] big chips config
 - [ ] onboarding
-- [ ] only AQI  
-- [ ] AQI on design  
-- [ ] wind speed relation to human terminology
+- [x] only AQI  
+- [x] AQI on design  
+- [x] wind speed relation to human terminology
 - [ ] Error handling
 - [ ] tools testing platform
-- [ ] 
+- [ ] optional widget
+- [ ] optional scrolling
+- [ ] should I show widget here or not etc
+- [ ] error handlig
+- [ ] create API to update the tools on DB
+- [ ] capabilities limit (upon asking, tara is saying that we can change the phone number through it but we can';t)
+- [ ] its saying city codes
