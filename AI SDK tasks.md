@@ -32,7 +32,8 @@
 
 
 
-
+laundry bag
+hooks for wall
 
 
 
