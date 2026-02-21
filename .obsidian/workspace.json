@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -366,13 +366,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf7a8c96aadd032d",
+  "active": "d4901dca96095ecc",
   "lastOpenFiles": [
+    "AI SDK tasks.md",
+    "Untitled.md",
     "Problems.md",
     "maps.md",
     "test.md",
     "conv ai.md",
-    "AI SDK tasks.md",
     "random.md",
     "Tracking Session Report.md",
     "UI image to code AI.md",
@@ -396,7 +397,6 @@
     "common_model.md",
     "Untitled 1.md",
     "auto deployment bash.md",
-    "Reel2Trip.md",
     "tamasha"
   ]
 }
