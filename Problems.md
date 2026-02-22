@@ -15,5 +15,12 @@ Then finally made the final answer array but iterating through it and making arr
 **More optimized solution:**
 I read somewhere that I can infact create a hash key of each string according to the alphabetical order appearance of each string. Then, make a hashmap of it with key as this hashkey and value as the array of those strings matching. then simply return all these values (arrays).
 
+## Top K Frequent Elements (https://neetcode.io/problems/top-k-elements-in-list/question)
 
 
+How I solved it:
+I created a 2d array as size of the input array + 1. This will be my frequency array, the index will represent the frequency. Why? because I know for sure that the frequency of any number cannot exceed the size of the array.
+Each element of this array will carry the number of whose frequency is same as its index (there can be multiple numbers hence created array of array)
+Then I will simply create a map of the frequency (using unordered_map: key as the number, val as the frequency).
+Then I will iterate through this map and start filling our 2d array (will place the number to the exact indexes)
+Then, I will iterate the 2d array from the far right (max index for max frequency), there I will simply iterate through each index to check if there are numbers or not until I found the exact K numbers and append them in the answer.
