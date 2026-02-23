@@ -21,6 +21,7 @@ Feat:
 - [ ] web search live
 - [ ] integration with calendar, events
 
+
 [[2025-12-27]]
 - [ ] tool calls working https://github.com/swayamg20/vad-based-conv-ai/pull/3
 

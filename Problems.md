@@ -24,3 +24,10 @@ Each element of this array will carry the number of whose frequency is same as i
 Then I will simply create a map of the frequency (using unordered_map: key as the number, val as the frequency).
 Then I will iterate through this map and start filling our 2d array (will place the number to the exact indexes)
 Then, I will iterate the 2d array from the far right (max index for max frequency), there I will simply iterate through each index to check if there are numbers or not until I found the exact K numbers and append them in the answer.
+
+## # Encode and Decode Strings (https://neetcode.io/problems/string-encode-and-decode/question)
+
+What I did:
+I made a string, by concatinating each individual string by adding "{size}#" 
+`#` because I need to maintain the more than 1 digit size string also.
+Then in the decoder, I simply started from the start, defined `activeSize` initially to be 0, then initially started until I find the next `#` after `i` position, as soon as I find, that index will be my end of the size number, so the size will be in this range: `that index - intial index`. Then, I converted this range into `int`, then iterated for this much size while extracting charecters to make the string.
