@@ -130,6 +130,18 @@
             }
           },
           {
+            "id": "74e21045dd014f27",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "bf7a8c96aadd032d",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -366,7 +378,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4901dca96095ecc",
+  "active": "74e21045dd014f27",
   "lastOpenFiles": [
     "AI SDK tasks.md",
     "Untitled.md",
