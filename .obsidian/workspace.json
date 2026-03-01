@@ -130,15 +130,17 @@
             }
           },
           {
-            "id": "74e21045dd014f27",
+            "id": "2834fed20acf630a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "OpenClaw Buildathon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "OpenClaw Buildathon"
             }
           },
           {
@@ -378,8 +380,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74e21045dd014f27",
+  "active": "2834fed20acf630a",
   "lastOpenFiles": [
+    "OpenClaw Buildathon.md",
     "AI SDK tasks.md",
     "Untitled.md",
     "Problems.md",
@@ -407,7 +410,6 @@
     "cost.md",
     "@.md",
     "common_model.md",
-    "Untitled 1.md",
     "auto deployment bash.md",
     "tamasha"
   ]
